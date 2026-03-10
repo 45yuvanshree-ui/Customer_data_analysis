@@ -5,6 +5,9 @@ This project explores customer shopping behavior using transactional data
 from 3,900 purchases. I analyzed spending patterns, product preferences, 
 customer segments, and subscription behavior to derive business insights.
 
+## Dashboard
+![Customer Behavior Dashboard](Dashboard-image.png)
+
 ## Tools & Technologies
 - Python (Pandas, Jupyter Notebook) - Data cleaning and EDA
 - PostgreSQL (pgAdmin) - Business queries and analysis
@@ -20,7 +23,7 @@ customer segments, and subscription behavior to derive business insights.
 | `Customer Shopping Behavior Analysis.pdf` | Project documentation |
 | `Customer-Shopping-Behavior-Analysis.pdf` | Project presentation slides |
 
-## What I found
+## Key Findings
 - Male customers contributed significantly more revenue (68% vs 32%)
 - 79% of customers fall under the Loyal segment
 - Young Adults (18-25) had the highest revenue at $62,143
